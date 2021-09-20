@@ -1,3 +1,0 @@
-#devops
-hlo 
-devops class
